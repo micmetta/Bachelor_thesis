@@ -1,1 +1,1 @@
-# Bachelor's thesis
+# Bachelor's thesis - Tesi di Laurea Triennale
